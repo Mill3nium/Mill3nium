@@ -2244,7 +2244,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>serdarciplak/BlazorMonaco</span>
-                                        <span>starred 11 days ago</span>
+                                        <span>starred 12 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Blazor component for Microsoft's Monaco Editor which powers Visual Studio Code.</div>
@@ -2297,7 +2297,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>brijeshb42/monaco-themes</span>
-                                        <span>starred 11 days ago</span>
+                                        <span>starred 12 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Themes to be used and generated with monaco-editor in web browser</div>
@@ -2500,7 +2500,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Aug 2023, 14:29:31 (timezone Europe/Stockholm) with lowlighter/metrics@3.34.0-beta</span>
+                <span>Last updated 6 Aug 2023, 17:16:17 (timezone Europe/Stockholm) with lowlighter/metrics@3.34.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
