@@ -2229,7 +2229,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Mermade/openapi-filter</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Filter internal paths, operations, parameters, schemas etc from OpenAPI/Swagger/AsyncAPI definitions</div>
@@ -2338,7 +2338,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>wbkd/leaflet-truesize</span>
-                                        <span>starred 14 days ago</span>
+                                        <span>starred 15 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Leaflet plugin for easily comparing sizes of geographical shapes</div>
@@ -2391,7 +2391,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>x8BitRain/citysize</span>
-                                        <span>starred 15 days ago</span>
+                                        <span>starred 16 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A projection-accurate interactive map that lets you compare the sizes of cities, countries and even buildings.</div>
@@ -2482,7 +2482,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Oct 2023, 20:22:50 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 5 Oct 2023, 23:15:06 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
