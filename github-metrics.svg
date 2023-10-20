@@ -2234,7 +2234,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Mermade/openapi-filter</span>
-                                        <span>starred 16 days ago</span>
+                                        <span>starred 17 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Filter internal paths, operations, parameters, schemas etc from OpenAPI/Swagger/AsyncAPI definitions</div>
@@ -2343,7 +2343,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>wbkd/leaflet-truesize</span>
-                                        <span>starred 29 days ago</span>
+                                        <span>starred Sep 20 2023</span>
                                     </div>
                                 </div>
                                 <div class="field description">Leaflet plugin for easily comparing sizes of geographical shapes</div>
@@ -2487,7 +2487,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Oct 2023, 20:20:54 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 20 Oct 2023, 23:14:14 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
