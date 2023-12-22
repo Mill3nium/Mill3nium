@@ -2208,6 +2208,11 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
+                            <g transform="translate(-6.8, 10)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
@@ -2229,7 +2234,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>zalando/zally</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A minimalistic, simple-to-use API linter</div>
@@ -2282,7 +2287,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>zalando/restful-api-guidelines</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A model set of guidelines for RESTful APIs and Events, created by Zalando</div>
@@ -2335,7 +2340,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Scion-Labs/API-designing-guidelines</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Scion labs API designing guidelines &amp; best practices for writing REST API's.</div>
@@ -2382,7 +2387,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>inaka/rest_guidelines</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">REST API Design Guidelines</div>
@@ -2429,7 +2434,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>smizell/restfuljson</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">RESTful JSON Specification</div>
@@ -2473,7 +2478,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Dec 2023, 22:16:29 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 22 Dec 2023, 02:14:53 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
