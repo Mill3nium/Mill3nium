@@ -2219,7 +2219,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Redocly/redoc</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">📘  OpenAPI/Swagger-generated API Reference Documentation</div>
@@ -2313,7 +2313,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>zalando/zally</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A minimalistic, simple-to-use API linter</div>
@@ -2366,7 +2366,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>zalando/restful-api-guidelines</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A model set of guidelines for RESTful APIs and Events, created by Zalando</div>
@@ -2463,7 +2463,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Dec 2023, 19:21:16 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 26 Dec 2023, 22:14:45 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
