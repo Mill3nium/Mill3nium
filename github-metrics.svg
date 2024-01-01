@@ -2355,7 +2355,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>zalando/zally</span>
-                                        <span>starred 10 days ago</span>
+                                        <span>starred 11 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A minimalistic, simple-to-use API linter</div>
@@ -2408,7 +2408,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>zalando/restful-api-guidelines</span>
-                                        <span>starred 10 days ago</span>
+                                        <span>starred 11 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A model set of guidelines for RESTful APIs and Events, created by Zalando</div>
@@ -2458,7 +2458,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 Jan 2024, 19:21:54 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 1 Jan 2024, 22:14:53 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
