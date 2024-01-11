@@ -2229,7 +2229,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>apisyouwonthate/openapi.tools</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A collection of Editors, Linters, Parsers, Code Generators,  Documentation, Testing</div>
@@ -2282,7 +2282,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mulesoft/api-designer</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A web editor for creating and sharing RAML API specifications</div>
@@ -2335,7 +2335,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Mermade/openapi-gui</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">GUI / visual editor for creating and editing OpenAPI / Swagger definitions</div>
@@ -2441,7 +2441,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>swagger-api/swagger-editor</span>
-                                        <span>starred 8 days ago</span>
+                                        <span>starred 9 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Swagger Editor</div>
@@ -2491,7 +2491,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11 Jan 2024, 19:22:27 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 11 Jan 2024, 22:16:03 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
