@@ -2234,7 +2234,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>apisyouwonthate/openapi.tools</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A collection of Editors, Linters, Parsers, Code Generators,  Documentation, Testing</div>
@@ -2287,7 +2287,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mulesoft/api-designer</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A web editor for creating and sharing RAML API specifications</div>
@@ -2340,7 +2340,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Mermade/openapi-gui</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">GUI / visual editor for creating and editing OpenAPI / Swagger definitions</div>
@@ -2496,7 +2496,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 Jan 2024, 02:18:21 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 12 Jan 2024, 04:18:51 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
