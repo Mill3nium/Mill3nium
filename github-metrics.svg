@@ -2239,7 +2239,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>RepreZen/KaiZen-OpenAPI-Editor</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Eclipse Editor for the Swagger-OpenAPI Description Language</div>
@@ -2292,7 +2292,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>apisyouwonthate/openapi.tools</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A collection of Editors, Linters, Parsers, Code Generators,  Documentation, Testing</div>
@@ -2501,7 +2501,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Jan 2024, 16:17:01 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 13 Jan 2024, 19:21:14 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
