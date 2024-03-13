@@ -2224,7 +2224,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>zalando/backstage-plugin-api-linter</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">API Linter is a quality assurance tool that checks the compliance of API's specifications to Zalando's API rules.</div>
@@ -2436,7 +2436,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>daveshanley/vacuum</span>
-                                        <span>starred 13 days ago</span>
+                                        <span>starred 14 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">vacuum is the worlds fastest OpenAPI 3, OpenAPI 2 / Swagger linter and quality analysis tool. Built in go, it tears through API specs faster than you can think. vacuum is compatible with Spectral rulesets and generates compatible reports.</div>
@@ -2486,7 +2486,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Mar 2024, 10:17:48 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 13 Mar 2024, 13:31:20 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
