@@ -2234,7 +2234,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>zalando/backstage-plugin-api-linter</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">API Linter is a quality assurance tool that checks the compliance of API's specifications to Zalando's API rules.</div>
@@ -2340,7 +2340,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>opticdev/optic</span>
-                                        <span>starred 15 days ago</span>
+                                        <span>starred 16 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">OpenAPI linting, diffing and testing. Optic helps prevent breaking changes, publish accurate documentation and improve the design of your APIs.</div>
@@ -2393,7 +2393,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Redocly/redocly-cli</span>
-                                        <span>starred 15 days ago</span>
+                                        <span>starred 16 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">⚒️ Redocly CLI makes OpenAPI easy. Lint/validate to any standard, generate beautiful docs, and more.</div>
@@ -2496,7 +2496,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Mar 2024, 16:17:14 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 15 Mar 2024, 19:22:10 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
