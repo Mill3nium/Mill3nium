@@ -2251,7 +2251,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>zalando/backstage-plugin-api-linter</span>
-                                        <span>starred 19 days ago</span>
+                                        <span>starred 20 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">API Linter is a quality assurance tool that checks the compliance of API's specifications to Zalando's API rules.</div>
@@ -2513,7 +2513,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 Apr 2024, 17:17:30 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 1 Apr 2024, 20:21:07 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
