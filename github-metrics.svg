@@ -2239,7 +2239,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tamasfe/aide</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An API documentation library</div>
@@ -2292,7 +2292,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jonluca/har-to-openapi</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">HAR to OpenAPI spec generator</div>
@@ -2339,7 +2339,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Adawg4/openapi-autospec</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Proxy server that generates API specs for any app or website on localhost.</div>
@@ -2386,7 +2386,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>alufers/mitmproxy2swagger</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Automagically reverse-engineer REST APIs via capturing traffic</div>
@@ -2483,7 +2483,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Apr 2024, 20:21:55 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 20 Apr 2024, 23:15:19 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
