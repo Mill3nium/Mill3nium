@@ -2244,7 +2244,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ffisk/books</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2286,7 +2286,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>postmanlabs/openapi-to-postman</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Plugin for converting OpenAPI 3.0 specs to the Postman Collection (v2) format</div>
@@ -2339,7 +2339,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tamasfe/aide</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An API documentation library</div>
@@ -2392,7 +2392,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jonluca/har-to-openapi</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">HAR to OpenAPI spec generator</div>
@@ -2439,7 +2439,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Adawg4/openapi-autospec</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Proxy server that generates API specs for any app or website on localhost.</div>
@@ -2483,7 +2483,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Apr 2024, 11:17:59 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 21 Apr 2024, 14:31:25 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
