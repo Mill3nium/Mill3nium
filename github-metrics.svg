@@ -2224,7 +2224,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>node-red-contrib-themes/theme-collection</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A collection of themes for Node-RED</div>
@@ -2277,7 +2277,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>denisidoro/navi</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An interactive cheatsheet tool for the command-line</div>
@@ -2383,7 +2383,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>damiancipolat/node-bff</span>
-                                        <span>starred 10 days ago</span>
+                                        <span>starred 11 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A simple backend for frontend service, created in nodejs, using expressjs and the http-proxy-middleware module.</div>
@@ -2436,7 +2436,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kkeeth/bff-template-node</span>
-                                        <span>starred 10 days ago</span>
+                                        <span>starred 11 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2487,7 +2487,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 May 2024, 20:23:42 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 8 May 2024, 23:18:09 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
