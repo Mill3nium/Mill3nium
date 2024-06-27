@@ -2273,7 +2273,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>shadcn-ui/next-template</span>
-                                        <span>starred 12 days ago</span>
+                                        <span>starred 13 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Next.js 13 template for building apps with Radix UI and Tailwind CSS.</div>
@@ -2459,7 +2459,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Jun 2024, 11:20:08 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 27 Jun 2024, 14:36:12 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
