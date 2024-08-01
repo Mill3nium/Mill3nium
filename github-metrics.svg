@@ -2229,7 +2229,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>amzn/selling-partner-api-models</span>
-                                        <span>starred 13 days ago</span>
+                                        <span>starred 14 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">This repository contains OpenAPI models for developers to use when developing software to call Selling Partner APIs.</div>
@@ -2282,7 +2282,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Adyen/adyen-openapi</span>
-                                        <span>starred 13 days ago</span>
+                                        <span>starred 14 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">OpenAPI specification for the Adyen APIs</div>
@@ -2376,7 +2376,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>opticdev/sweater-comb</span>
-                                        <span>starred 28 days ago</span>
+                                        <span>starred 29 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">API linting rules</div>
@@ -2470,7 +2470,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 Aug 2024, 11:19:55 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 1 Aug 2024, 14:37:40 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
