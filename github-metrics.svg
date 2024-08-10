@@ -2239,7 +2239,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>amzn/selling-partner-api-models</span>
-                                        <span>starred 22 days ago</span>
+                                        <span>starred 23 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">This repository contains OpenAPI models for developers to use when developing software to call Selling Partner APIs.</div>
@@ -2292,7 +2292,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Adyen/adyen-openapi</span>
-                                        <span>starred 22 days ago</span>
+                                        <span>starred 23 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">OpenAPI specification for the Adyen APIs</div>
@@ -2480,7 +2480,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 Aug 2024, 11:19:54 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 10 Aug 2024, 14:35:33 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
