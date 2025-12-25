@@ -2282,7 +2282,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>microsoft/mcsmcp</span>
-                                        <span>starred 23 days ago</span>
+                                        <span>starred 24 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Lab for creating an MCP Server and using it in Microsoft Copilot Studio.</div>
@@ -2485,7 +2485,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Dec 2025, 07:41:18 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 25 Dec 2025, 10:29:18 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
